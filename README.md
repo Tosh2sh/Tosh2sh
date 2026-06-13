@@ -24,6 +24,7 @@ A results-driven **Electrical and Electronics Engineer** specializing in the des
 <!-- Engineering, Programming & Maintenance Badges -->
 
 ---
+Add my profile README
 
 ### 📊 GitHub Real-Time Analytics
 
